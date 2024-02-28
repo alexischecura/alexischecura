@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Alexis Checura, a Full Stack Developer from Mendoza, Argentina 🇦🇷.
 <!--
 **alexisrulo/alexisrulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
