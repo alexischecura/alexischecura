@@ -30,6 +30,7 @@
 ![Figma Badge](https://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Node Badge](https://img.shields.io/badge/-node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![Express Badge](https://img.shields.io/badge/-express-000?style=for-the-badge&logo=express&logoColor=white)
 ![Postgresql Badge](https://img.shields.io/badge/-postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white)
